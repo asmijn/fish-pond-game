@@ -1,14 +1,14 @@
-#Fish Pond Game
+**Fish Pond Game**
 
 A Java-based arcade game built with **Java Swing** where the player navigates a fish through a pond while avoiding obstacles and collecting items.
 
-##About the Game
+**About the Game**
 
 Fish Pond Game is a simple interactive game developed in Java using the Swing GUI framework. The player controls a fish and attempts to survive as long as possible while navigating through the pond.
 
 The project focuses on implementing **object-oriented programming, GUI development, game logic, collision detection, and user interaction**.
 
-##Features
+**Features**
 
 * Player-controlled fish
 * Interactive pond environment
@@ -19,7 +19,7 @@ The project focuses on implementing **object-oriented programming, GUI developme
 * Restart functionality
 * Java Swing graphical interface
 
-##Technologies
+**Technologies**
 
 * **Java**
 * **Java Swing**
@@ -27,7 +27,7 @@ The project focuses on implementing **object-oriented programming, GUI developme
 * **IntelliJ IDEA**
 * **Git & GitHub**
 
-## 📁 Project Structure
+**Project Structure**
 
 ```text
 Fish Game/
@@ -41,7 +41,7 @@ Fish Game/
 └── README.md
 ```
 
-### Main Classes
+**Main Classes**
 
 **`Main.java`**
 Starts the game and sets up the graphical interface.
@@ -60,12 +60,12 @@ Represents collectible or interactive worm objects within the game.
 
 ##How to Run
 
-### Requirements
+**Requirements**
 
 * Java Development Kit (JDK)
 * IntelliJ IDEA or another Java IDE
 
-### Running the Game
+**Running the Game**
 
 1. Clone the repository:
 
@@ -79,7 +79,7 @@ git clone https://github.com/asmijn/fish-pond-game.git
 
 4. Run `Main.java`.
 
-##What I Learned
+**What I Learned**
 
 Through this project, I practiced:
 
@@ -91,7 +91,7 @@ Through this project, I practiced:
 * Structuring a multi-class Java application
 * Using Git and GitHub for version control
 
-##Future Improvements
+**Future Improvements**
 
 Potential additions include:
 
@@ -104,7 +104,7 @@ Potential additions include:
 * A start menu and settings screen
 * Improved graphics and animations
 
-##Author
+**Author**
 
 **Asmi Jain**
 
